@@ -1,0 +1,248 @@
+{
+  "fecha_reporte": "20/05/2026",
+  "barchart": {
+    "NY11": {
+      "front": {
+        "contract": "SBN26",
+        "last": 15.01,
+        "change": 0.28,
+        "open": 14.76,
+        "high": 15.13,
+        "low": 14.69,
+        "previous": 14.73,
+        "volume": 64935,
+        "open_int": 414867
+      },
+      "curva": [
+        {
+          "contract": "SBN26",
+          "last": 15.01
+        },
+        {
+          "contract": "SBV26",
+          "last": 15.46
+        },
+        {
+          "contract": "SBH27",
+          "last": 16.28
+        },
+        {
+          "contract": "SBK27",
+          "last": 16.07
+        },
+        {
+          "contract": "SBN27",
+          "last": 16.06
+        },
+        {
+          "contract": "SBV27",
+          "last": 16.31
+        }
+      ]
+    },
+    "LON5": {
+      "front": {
+        "contract": "SWQ26",
+        "last": 441,
+        "change": 4.5,
+        "open": 437,
+        "high": 446.6,
+        "low": 433.8,
+        "previous": 436.5,
+        "volume": 8253,
+        "open_int": 58804
+      },
+      "curva": [
+        {
+          "contract": "SWQ26",
+          "last": 441
+        },
+        {
+          "contract": "SWV26",
+          "last": 441
+        },
+        {
+          "contract": "SWZ26",
+          "last": 443.9
+        },
+        {
+          "contract": "SWH27",
+          "last": 449.7
+        },
+        {
+          "contract": "SWK27",
+          "last": 452.1
+        },
+        {
+          "contract": "SWQ27",
+          "last": 452.5
+        }
+      ]
+    },
+    "Petroleo": {
+      "front": {
+        "contract": "CLM26",
+        "last": 107.77,
+        "change": -0.89,
+        "open": 107.11,
+        "high": 109.24,
+        "low": 106.76,
+        "previous": 108.66,
+        "volume": 20458,
+        "open_int": 18037
+      },
+      "curva": [
+        {
+          "contract": "CLM26",
+          "last": 107.77
+        },
+        {
+          "contract": "CLN26",
+          "last": 103.77
+        },
+        {
+          "contract": "CLQ26",
+          "last": 98.75
+        },
+        {
+          "contract": "CLU26",
+          "last": 94.06
+        },
+        {
+          "contract": "CLV26",
+          "last": 90.12
+        },
+        {
+          "contract": "CLX26",
+          "last": 86.95
+        }
+      ]
+    },
+    "Ethanol": {
+      "front": {
+        "contract": "D2N27",
+        "last": 620,
+        "change": 17,
+        "open": 0,
+        "high": 620,
+        "low": 620,
+        "previous": 603,
+        "volume": 20,
+        "open_int": 0
+      },
+      "curva": [
+        {
+          "contract": "D2N27",
+          "last": 620
+        }
+      ]
+    }
+  },
+  "divisas": [
+    {
+      "indicador": "EUR a USD",
+      "compra": 1.161175,
+      "venta": 1.161175,
+      "fecha": "20/05/2026",
+      "fuente": "Google Finance"
+    },
+    {
+      "indicador": "USD a COP",
+      "compra": 3795.098334,
+      "venta": 3795.098334,
+      "fecha": "20/05/2026",
+      "fuente": "Google Finance"
+    },
+    {
+      "indicador": "USD a PEN",
+      "compra": 3.429,
+      "venta": 3.439,
+      "fecha": "2026-05-19",
+      "fuente": "SUNAT"
+    }
+  ],
+  "sunat": {
+    "total_fob_usd": 199114.11,
+    "total_peso_kg": 391151,
+    "total_declaraciones": 4,
+    "total_importadores": 4,
+    "por_categoria": [
+      {
+        "categoria": "RUBIAS",
+        "declaraciones": 0,
+        "fob": 0,
+        "peso_kg": 0
+      },
+      {
+        "categoria": "BLANCAS",
+        "declaraciones": 4,
+        "fob": 199114.11,
+        "peso_kg": 391151
+      },
+      {
+        "categoria": "ETILICO",
+        "declaraciones": 0,
+        "fob": 0,
+        "peso_kg": 0
+      },
+      {
+        "categoria": "CARBURANTE",
+        "declaraciones": 0,
+        "fob": 0,
+        "peso_kg": 0
+      }
+    ],
+    "top_importadores": [
+      {
+        "ruc": "20100093830",
+        "fob": 83040.2,
+        "declaraciones": 1
+      },
+      {
+        "ruc": "20273155938",
+        "fob": 66694.91,
+        "declaraciones": 1
+      },
+      {
+        "ruc": "20303585622",
+        "fob": 47352.0,
+        "declaraciones": 1
+      },
+      {
+        "ruc": "20499935286",
+        "fob": 2027.0,
+        "declaraciones": 1
+      }
+    ],
+    "top_marcas": [
+      {
+        "marca": "PICHICHI",
+        "fob": 83040.2
+      },
+      {
+        "marca": "RIOPAILA",
+        "fob": 66694.91
+      },
+      {
+        "marca": "MANUELITA",
+        "fob": 47352.0
+      },
+      {
+        "marca": "USP",
+        "fob": 2027.0
+      }
+    ],
+    "por_pais": [
+      {
+        "pais": "Colombia",
+        "codigo": "CO",
+        "fob": 197087.11
+      },
+      {
+        "pais": "EE.UU.",
+        "codigo": "US",
+        "fob": 2027.0
+      }
+    ]
+  }
+}
