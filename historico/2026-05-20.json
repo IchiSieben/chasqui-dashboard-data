@@ -4,117 +4,117 @@
     "NY11": {
       "front": {
         "contract": "SBN26",
-        "last": 15.01,
-        "change": 0.28,
-        "open": 14.76,
+        "last": 15.04,
+        "change": 0.029999999999999,
+        "open": 15.07,
         "high": 15.13,
-        "low": 14.69,
-        "previous": 14.73,
-        "volume": 64935,
+        "low": 14.92,
+        "previous": 15.01,
+        "volume": 12265,
         "open_int": 414867
       },
       "curva": [
         {
           "contract": "SBN26",
-          "last": 15.01
+          "last": 15.04
         },
         {
           "contract": "SBV26",
-          "last": 15.46
+          "last": 15.51
         },
         {
           "contract": "SBH27",
-          "last": 16.28
+          "last": 16.34
         },
         {
           "contract": "SBK27",
-          "last": 16.07
+          "last": 16.13
         },
         {
           "contract": "SBN27",
-          "last": 16.06
+          "last": 16.13
         },
         {
           "contract": "SBV27",
-          "last": 16.31
+          "last": 16.34
         }
       ]
     },
     "LON5": {
       "front": {
         "contract": "SWQ26",
-        "last": 441,
-        "change": 4.5,
-        "open": 437,
-        "high": 446.6,
-        "low": 433.8,
-        "previous": 436.5,
-        "volume": 8253,
-        "open_int": 58804
+        "last": 447.7,
+        "change": 6.7,
+        "open": 440.7,
+        "high": 447.7,
+        "low": 438.7,
+        "previous": 441,
+        "volume": 2806,
+        "open_int": 59698
       },
       "curva": [
         {
           "contract": "SWQ26",
-          "last": 441
+          "last": 447.7
         },
         {
           "contract": "SWV26",
-          "last": 441
+          "last": 446.8
         },
         {
           "contract": "SWZ26",
-          "last": 443.9
+          "last": 448.3
         },
         {
           "contract": "SWH27",
-          "last": 449.7
+          "last": 453.4
         },
         {
           "contract": "SWK27",
-          "last": 452.1
+          "last": 455.6
         },
         {
           "contract": "SWQ27",
-          "last": 452.5
+          "last": 456.2
         }
       ]
     },
     "Petroleo": {
       "front": {
-        "contract": "CLM26",
-        "last": 107.77,
-        "change": -0.89,
-        "open": 107.11,
-        "high": 109.24,
-        "low": 106.76,
-        "previous": 108.66,
-        "volume": 20458,
-        "open_int": 18037
+        "contract": "CLN26",
+        "last": 102.04,
+        "change": -2.11,
+        "open": 104.12,
+        "high": 104.45,
+        "low": 100.87,
+        "previous": 104.15,
+        "volume": 54413,
+        "open_int": 283536
       },
       "curva": [
         {
-          "contract": "CLM26",
-          "last": 107.77
-        },
-        {
           "contract": "CLN26",
-          "last": 103.77
+          "last": 102.04
         },
         {
           "contract": "CLQ26",
-          "last": 98.75
+          "last": 97.23
         },
         {
           "contract": "CLU26",
-          "last": 94.06
+          "last": 92.78
         },
         {
           "contract": "CLV26",
-          "last": 90.12
+          "last": 88.95
         },
         {
           "contract": "CLX26",
-          "last": 86.95
+          "last": 85.99
+        },
+        {
+          "contract": "CLZ26",
+          "last": 83.63
         }
       ]
     },
@@ -155,9 +155,9 @@
     },
     {
       "indicador": "USD a PEN",
-      "compra": 3.429,
-      "venta": 3.439,
-      "fecha": "2026-05-19",
+      "compra": 3.424,
+      "venta": 3.431,
+      "fecha": "2026-05-20",
       "fuente": "SUNAT"
     }
   ],
@@ -244,5 +244,22 @@
         "fob": 2027.0
       }
     ]
+  },
+  "obra_dia": {
+    "titulo": "El Valle de México desde el Cerro de Santa Isabel",
+    "artista": "José María Velasco",
+    "año": "1882",
+    "region": "México",
+    "lugar": "Museo Nacional de Arte, Ciudad de México",
+    "reseña": "Velasco fue ingeniero geólogo y paleontólogo además de pintor. Conocía el valle de México como un científico: cada estrato, cada nube cumulus. Sus paisajes son retratos científicos de un territorio. Diego Rivera, alumno suyo, dijo que aprendió de Velasco que el paisaje también es política.",
+    "filename": "José María Velasco - The Valley of Mexico from the Santa Isabel Mountain Range - Google Art Project.jpg",
+    "paleta": [
+      "#8aa872",
+      "#5c8aae",
+      "#c4b896",
+      "#3c5238",
+      "#d8c8a4"
+    ],
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/José María Velasco - The Valley of Mexico from the Santa Isabel Mountain Range - Google Art Project.jpg?width=800"
   }
 }
