@@ -4,31 +4,31 @@
     "NY11": {
       "front": {
         "contract": "SBN26",
-        "last": 15.12,
-        "change": 0.11,
+        "last": 15.09,
+        "change": 0.08,
         "open": 15.07,
         "high": 15.13,
         "low": 14.92,
         "previous": 15.01,
-        "volume": 13614,
+        "volume": 15692,
         "open_int": 414867
       },
       "curva": [
         {
           "contract": "SBN26",
-          "last": 15.12
+          "last": 15.09
         },
         {
           "contract": "SBV26",
-          "last": 15.59
+          "last": 15.55
         },
         {
           "contract": "SBH27",
-          "last": 16.41
+          "last": 16.38
         },
         {
           "contract": "SBK27",
-          "last": 16.19
+          "last": 16.16
         },
         {
           "contract": "SBN27",
@@ -36,42 +36,42 @@
         },
         {
           "contract": "SBV27",
-          "last": 16.42
+          "last": 16.44
         }
       ]
     },
     "LON5": {
       "front": {
         "contract": "SWQ26",
-        "last": 449.8,
-        "change": 8.8,
+        "last": 448.7,
+        "change": 7.7,
         "open": 440.7,
-        "high": 449.9,
+        "high": 450,
         "low": 438.7,
         "previous": 441,
-        "volume": 3199,
+        "volume": 3549,
         "open_int": 59698
       },
       "curva": [
         {
           "contract": "SWQ26",
-          "last": 449.8
+          "last": 448.7
         },
         {
           "contract": "SWV26",
-          "last": 448.8
+          "last": 448.1
         },
         {
           "contract": "SWZ26",
-          "last": 450.5
+          "last": 449.6
         },
         {
           "contract": "SWH27",
-          "last": 455.2
+          "last": 454.4
         },
         {
           "contract": "SWK27",
-          "last": 457.2
+          "last": 456.5
         },
         {
           "contract": "SWQ27",
@@ -82,39 +82,39 @@
     "Petroleo": {
       "front": {
         "contract": "CLN26",
-        "last": 102.51,
-        "change": -1.64,
+        "last": 102.01,
+        "change": -2.14,
         "open": 104.12,
         "high": 104.45,
         "low": 100.87,
         "previous": 104.15,
-        "volume": 60090,
+        "volume": 62440,
         "open_int": 283536
       },
       "curva": [
         {
           "contract": "CLN26",
-          "last": 102.51
+          "last": 102.01
         },
         {
           "contract": "CLQ26",
-          "last": 97.78
+          "last": 97.37
         },
         {
           "contract": "CLU26",
-          "last": 93.34
+          "last": 92.97
         },
         {
           "contract": "CLV26",
-          "last": 89.47
+          "last": 89.22
         },
         {
           "contract": "CLX26",
-          "last": 86.5
+          "last": 86.2
         },
         {
           "contract": "CLZ26",
-          "last": 84.07
+          "last": 83.81
         }
       ]
     },
@@ -155,96 +155,13 @@
     },
     {
       "indicador": "USD a PEN",
-      "compra": 3.424,
-      "venta": 3.431,
-      "fecha": "2026-05-20",
+      "compra": "N/A",
+      "venta": "N/A",
+      "fecha": "N/A",
       "fuente": "SUNAT"
     }
   ],
-  "sunat": {
-    "total_fob_usd": 199114.11,
-    "total_peso_kg": 391151,
-    "total_declaraciones": 4,
-    "total_importadores": 4,
-    "por_categoria": [
-      {
-        "categoria": "RUBIAS",
-        "declaraciones": 0,
-        "fob": 0,
-        "peso_kg": 0
-      },
-      {
-        "categoria": "BLANCAS",
-        "declaraciones": 4,
-        "fob": 199114.11,
-        "peso_kg": 391151
-      },
-      {
-        "categoria": "ETILICO",
-        "declaraciones": 0,
-        "fob": 0,
-        "peso_kg": 0
-      },
-      {
-        "categoria": "CARBURANTE",
-        "declaraciones": 0,
-        "fob": 0,
-        "peso_kg": 0
-      }
-    ],
-    "top_importadores": [
-      {
-        "ruc": "20100093830",
-        "fob": 83040.2,
-        "declaraciones": 1
-      },
-      {
-        "ruc": "20273155938",
-        "fob": 66694.91,
-        "declaraciones": 1
-      },
-      {
-        "ruc": "20303585622",
-        "fob": 47352.0,
-        "declaraciones": 1
-      },
-      {
-        "ruc": "20499935286",
-        "fob": 2027.0,
-        "declaraciones": 1
-      }
-    ],
-    "top_marcas": [
-      {
-        "marca": "PICHICHI",
-        "fob": 83040.2
-      },
-      {
-        "marca": "RIOPAILA",
-        "fob": 66694.91
-      },
-      {
-        "marca": "MANUELITA",
-        "fob": 47352.0
-      },
-      {
-        "marca": "USP",
-        "fob": 2027.0
-      }
-    ],
-    "por_pais": [
-      {
-        "pais": "Colombia",
-        "codigo": "CO",
-        "fob": 197087.11
-      },
-      {
-        "pais": "EE.UU.",
-        "codigo": "US",
-        "fob": 2027.0
-      }
-    ]
-  },
+  "sunat": null,
   "obra_dia": {
     "titulo": "El Valle de México desde el Cerro de Santa Isabel",
     "artista": "José María Velasco",
