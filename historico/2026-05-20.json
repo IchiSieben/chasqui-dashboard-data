@@ -4,31 +4,31 @@
     "NY11": {
       "front": {
         "contract": "SBN26",
-        "last": 15.12,
-        "change": 0.11,
+        "last": 15.09,
+        "change": 0.08,
         "open": 15.07,
         "high": 15.15,
         "low": 14.92,
         "previous": 15.01,
-        "volume": 19560,
+        "volume": 19691,
         "open_int": 414867
       },
       "curva": [
         {
           "contract": "SBN26",
-          "last": 15.12
+          "last": 15.09
         },
         {
           "contract": "SBV26",
-          "last": 15.59
+          "last": 15.56
         },
         {
           "contract": "SBH27",
-          "last": 16.42
+          "last": 16.41
         },
         {
           "contract": "SBK27",
-          "last": 16.2
+          "last": 16.17
         },
         {
           "contract": "SBN27",
@@ -43,31 +43,31 @@
     "LON5": {
       "front": {
         "contract": "SWQ26",
-        "last": 449.6,
-        "change": 8.6,
+        "last": 448.9,
+        "change": 7.9,
         "open": 440.7,
         "high": 450,
         "low": 438.7,
         "previous": 441,
-        "volume": 3992,
+        "volume": 4034,
         "open_int": 59698
       },
       "curva": [
         {
           "contract": "SWQ26",
-          "last": 449.6
+          "last": 448.9
         },
         {
           "contract": "SWV26",
-          "last": 448.7
+          "last": 448.1
         },
         {
           "contract": "SWZ26",
-          "last": 450.5
+          "last": 449.8
         },
         {
           "contract": "SWH27",
-          "last": 455.3
+          "last": 454.7
         },
         {
           "contract": "SWK27",
@@ -82,39 +82,39 @@
     "Petroleo": {
       "front": {
         "contract": "CLN26",
-        "last": 101.5,
-        "change": -2.65,
+        "last": 101.28,
+        "change": -2.87,
         "open": 104.12,
         "high": 104.45,
         "low": 100.87,
         "previous": 104.15,
-        "volume": 68193,
+        "volume": 69315,
         "open_int": 283536
       },
       "curva": [
         {
           "contract": "CLN26",
-          "last": 101.5
+          "last": 101.28
         },
         {
           "contract": "CLQ26",
-          "last": 96.87
+          "last": 96.66
         },
         {
           "contract": "CLU26",
-          "last": 92.47
+          "last": 92.3
         },
         {
           "contract": "CLV26",
-          "last": 88.76
+          "last": 88.57
         },
         {
           "contract": "CLX26",
-          "last": 85.72
+          "last": 85.63
         },
         {
           "contract": "CLZ26",
-          "last": 83.47
+          "last": 83.28
         }
       ]
     },
