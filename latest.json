@@ -4,31 +4,31 @@
     "NY11": {
       "front": {
         "contract": "SBN26",
-        "last": 15.09,
-        "change": 0.08,
+        "last": 15.12,
+        "change": 0.11,
         "open": 15.07,
-        "high": 15.13,
+        "high": 15.15,
         "low": 14.92,
         "previous": 15.01,
-        "volume": 15692,
+        "volume": 19560,
         "open_int": 414867
       },
       "curva": [
         {
           "contract": "SBN26",
-          "last": 15.09
+          "last": 15.12
         },
         {
           "contract": "SBV26",
-          "last": 15.55
+          "last": 15.59
         },
         {
           "contract": "SBH27",
-          "last": 16.38
+          "last": 16.42
         },
         {
           "contract": "SBK27",
-          "last": 16.16
+          "last": 16.2
         },
         {
           "contract": "SBN27",
@@ -36,42 +36,42 @@
         },
         {
           "contract": "SBV27",
-          "last": 16.44
+          "last": 16.43
         }
       ]
     },
     "LON5": {
       "front": {
         "contract": "SWQ26",
-        "last": 448.7,
-        "change": 7.7,
+        "last": 449.6,
+        "change": 8.6,
         "open": 440.7,
         "high": 450,
         "low": 438.7,
         "previous": 441,
-        "volume": 3549,
+        "volume": 3992,
         "open_int": 59698
       },
       "curva": [
         {
           "contract": "SWQ26",
-          "last": 448.7
-        },
-        {
-          "contract": "SWV26",
-          "last": 448.1
-        },
-        {
-          "contract": "SWZ26",
           "last": 449.6
         },
         {
+          "contract": "SWV26",
+          "last": 448.7
+        },
+        {
+          "contract": "SWZ26",
+          "last": 450.5
+        },
+        {
           "contract": "SWH27",
-          "last": 454.4
+          "last": 455.3
         },
         {
           "contract": "SWK27",
-          "last": 456.5
+          "last": 457.3
         },
         {
           "contract": "SWQ27",
@@ -82,39 +82,39 @@
     "Petroleo": {
       "front": {
         "contract": "CLN26",
-        "last": 102.01,
-        "change": -2.14,
+        "last": 101.5,
+        "change": -2.65,
         "open": 104.12,
         "high": 104.45,
         "low": 100.87,
         "previous": 104.15,
-        "volume": 62440,
+        "volume": 68193,
         "open_int": 283536
       },
       "curva": [
         {
           "contract": "CLN26",
-          "last": 102.01
+          "last": 101.5
         },
         {
           "contract": "CLQ26",
-          "last": 97.37
+          "last": 96.87
         },
         {
           "contract": "CLU26",
-          "last": 92.97
+          "last": 92.47
         },
         {
           "contract": "CLV26",
-          "last": 89.22
+          "last": 88.76
         },
         {
           "contract": "CLX26",
-          "last": 86.2
+          "last": 85.72
         },
         {
           "contract": "CLZ26",
-          "last": 83.81
+          "last": 83.47
         }
       ]
     },
@@ -155,28 +155,111 @@
     },
     {
       "indicador": "USD a PEN",
-      "compra": "N/A",
-      "venta": "N/A",
-      "fecha": "N/A",
+      "compra": 3.424,
+      "venta": 3.431,
+      "fecha": "2026-05-20",
       "fuente": "SUNAT"
     }
   ],
-  "sunat": null,
-  "obra_dia": {
-    "titulo": "El Valle de México desde el Cerro de Santa Isabel",
-    "artista": "José María Velasco",
-    "año": "1882",
-    "region": "México",
-    "lugar": "Museo Nacional de Arte, Ciudad de México",
-    "reseña": "Velasco fue ingeniero geólogo y paleontólogo además de pintor. Conocía el valle de México como un científico: cada estrato, cada nube cumulus. Sus paisajes son retratos científicos de un territorio. Diego Rivera, alumno suyo, dijo que aprendió de Velasco que el paisaje también es política.",
-    "filename": "José María Velasco - The Valley of Mexico from the Santa Isabel Mountain Range - Google Art Project.jpg",
-    "paleta": [
-      "#8aa872",
-      "#5c8aae",
-      "#c4b896",
-      "#3c5238",
-      "#d8c8a4"
+  "sunat": {
+    "total_fob_usd": 199114.11,
+    "total_peso_kg": 391151,
+    "total_declaraciones": 4,
+    "total_importadores": 4,
+    "por_categoria": [
+      {
+        "categoria": "RUBIAS",
+        "declaraciones": 0,
+        "fob": 0,
+        "peso_kg": 0
+      },
+      {
+        "categoria": "BLANCAS",
+        "declaraciones": 4,
+        "fob": 199114.11,
+        "peso_kg": 391151
+      },
+      {
+        "categoria": "ETILICO",
+        "declaraciones": 0,
+        "fob": 0,
+        "peso_kg": 0
+      },
+      {
+        "categoria": "CARBURANTE",
+        "declaraciones": 0,
+        "fob": 0,
+        "peso_kg": 0
+      }
     ],
-    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/José María Velasco - The Valley of Mexico from the Santa Isabel Mountain Range - Google Art Project.jpg?width=800"
+    "top_importadores": [
+      {
+        "ruc": "20100093830",
+        "fob": 83040.2,
+        "declaraciones": 1
+      },
+      {
+        "ruc": "20273155938",
+        "fob": 66694.91,
+        "declaraciones": 1
+      },
+      {
+        "ruc": "20303585622",
+        "fob": 47352.0,
+        "declaraciones": 1
+      },
+      {
+        "ruc": "20499935286",
+        "fob": 2027.0,
+        "declaraciones": 1
+      }
+    ],
+    "top_marcas": [
+      {
+        "marca": "PICHICHI",
+        "fob": 83040.2
+      },
+      {
+        "marca": "RIOPAILA",
+        "fob": 66694.91
+      },
+      {
+        "marca": "MANUELITA",
+        "fob": 47352.0
+      },
+      {
+        "marca": "USP",
+        "fob": 2027.0
+      }
+    ],
+    "por_pais": [
+      {
+        "pais": "Colombia",
+        "codigo": "CO",
+        "fob": 197087.11
+      },
+      {
+        "pais": "EE.UU.",
+        "codigo": "US",
+        "fob": 2027.0
+      }
+    ]
+  },
+  "obra_dia": {
+    "titulo": "Plum Park in Kameido",
+    "artista": "Utagawa Hiroshige",
+    "año": "1857",
+    "region": "Japón (Edo)",
+    "lugar": "Brooklyn Museum, Nueva York",
+    "reseña": "Pertenece a 'Cien vistas famosas de Edo'. La rama negra en primer plano contra el cielo rojo y los pétalos rosas al fondo es una de las composiciones más radicales del siglo XIX. Van Gogh la copió al óleo en 1887 mientras vivía en París — es el momento exacto en que el japonismo entra al impresionismo.",
+    "filename": "Hiroshige Pruneraie à Kameido.jpg",
+    "paleta": [
+      "#a83c2c",
+      "#d8a8b8",
+      "#1f2418",
+      "#a8a07a",
+      "#3e5a3c"
+    ],
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hiroshige Pruneraie à Kameido.jpg?width=800"
   }
 }
