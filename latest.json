@@ -47,39 +47,39 @@
     "Petroleo": {
       "front": {
         "contract": "CLN26",
-        "last": 90.91,
-        "change": -5.69,
+        "last": 91.3,
+        "change": -5.3,
         "open": 93.88,
         "high": 93.9,
         "low": 90.32,
         "previous": 96.6,
-        "volume": 71436,
+        "volume": 73238,
         "open_int": 257465
       },
       "curva": [
         {
           "contract": "CLN26",
-          "last": 90.91
+          "last": 91.3
         },
         {
           "contract": "CLQ26",
-          "last": 88
+          "last": 88.4
         },
         {
           "contract": "CLU26",
-          "last": 85.1
+          "last": 85.48
         },
         {
           "contract": "CLV26",
-          "last": 82.37
+          "last": 82.75
         },
         {
           "contract": "CLX26",
-          "last": 80.11
+          "last": 80.51
         },
         {
           "contract": "CLZ26",
-          "last": 78.32
+          "last": 78.67
         }
       ]
     },
