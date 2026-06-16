@@ -10,7 +10,7 @@
         "high": 13.86,
         "low": 13.56,
         "previous": 13.68,
-        "volume": 38815,
+        "volume": 38826,
         "open_int": 147680
       },
       "curva": [
@@ -24,11 +24,11 @@
         },
         {
           "contract": "SBH27",
-          "last": 15.16
+          "last": 15.15
         },
         {
           "contract": "SBK27",
-          "last": 14.96
+          "last": 14.95
         },
         {
           "contract": "SBN27",
@@ -43,31 +43,31 @@
     "LON5": {
       "front": {
         "contract": "SWQ26",
-        "last": 447.2,
-        "change": 4.8,
+        "last": 447,
+        "change": 4.6,
         "open": 442,
         "high": 448.2,
         "low": 439,
         "previous": 442.4,
-        "volume": 6714,
+        "volume": 6731,
         "open_int": 55401
       },
       "curva": [
         {
           "contract": "SWQ26",
-          "last": 447.2
+          "last": 447
         },
         {
           "contract": "SWV26",
-          "last": 438.6
+          "last": 438.4
         },
         {
           "contract": "SWZ26",
-          "last": 434.4
+          "last": 434.3
         },
         {
           "contract": "SWH27",
-          "last": 437
+          "last": 437.1
         },
         {
           "contract": "SWK27",
@@ -75,7 +75,7 @@
         },
         {
           "contract": "SWQ27",
-          "last": 438.5
+          "last": 438.4
         }
       ]
     },
@@ -88,7 +88,7 @@
         "high": 81.58,
         "low": 76.86,
         "previous": 80.75,
-        "volume": 100213,
+        "volume": 101243,
         "open_int": 95243
       },
       "curva": [
@@ -98,23 +98,23 @@
         },
         {
           "contract": "CLQ26",
-          "last": 76.19
+          "last": 76.17
         },
         {
           "contract": "CLU26",
-          "last": 75.43
+          "last": 75.42
         },
         {
           "contract": "CLV26",
-          "last": 74.6
+          "last": 74.58
         },
         {
           "contract": "CLX26",
-          "last": 73.81
+          "last": 73.76
         },
         {
           "contract": "CLZ26",
-          "last": 73.09
+          "last": 73.04
         }
       ]
     },
