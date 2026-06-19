@@ -1810,22 +1810,22 @@ fecha,categoria,instrumento,contrato,metrica,valor
 2026-06-19,barchart_curva,Ethanol,D2U26,last,681.667
 2026-06-19,barchart_curva,LON5,SWH27,last,434.1
 2026-06-19,barchart_curva,LON5,SWK27,last,436.6
-2026-06-19,barchart_curva,LON5,SWQ26,last,440.9
+2026-06-19,barchart_curva,LON5,SWQ26,last,440.6
 2026-06-19,barchart_curva,LON5,SWQ27,last,435
-2026-06-19,barchart_curva,LON5,SWV26,last,434.6
-2026-06-19,barchart_curva,LON5,SWZ26,last,431.9
+2026-06-19,barchart_curva,LON5,SWV26,last,434.1
+2026-06-19,barchart_curva,LON5,SWZ26,last,431.5
 2026-06-19,barchart_curva,NY11,SBH27,last,15.06
 2026-06-19,barchart_curva,NY11,SBK27,last,14.89
 2026-06-19,barchart_curva,NY11,SBN26,last,13.59
 2026-06-19,barchart_curva,NY11,SBN27,last,14.93
 2026-06-19,barchart_curva,NY11,SBV26,last,14.13
 2026-06-19,barchart_curva,NY11,SBV27,last,15.27
-2026-06-19,barchart_curva,Petroleo,CLN26,last,77.15
-2026-06-19,barchart_curva,Petroleo,CLQ26,last,76.41
-2026-06-19,barchart_curva,Petroleo,CLU26,last,75.48
-2026-06-19,barchart_curva,Petroleo,CLV26,last,74.47
-2026-06-19,barchart_curva,Petroleo,CLX26,last,73.58
-2026-06-19,barchart_curva,Petroleo,CLZ26,last,72.77
+2026-06-19,barchart_curva,Petroleo,CLN26,last,76.55
+2026-06-19,barchart_curva,Petroleo,CLQ26,last,75.68
+2026-06-19,barchart_curva,Petroleo,CLU26,last,74.82
+2026-06-19,barchart_curva,Petroleo,CLV26,last,73.88
+2026-06-19,barchart_curva,Petroleo,CLX26,last,72.98
+2026-06-19,barchart_curva,Petroleo,CLZ26,last,72.23
 2026-06-19,barchart_front,Ethanol,D2M26,change,0
 2026-06-19,barchart_front,Ethanol,D2M26,high,734
 2026-06-19,barchart_front,Ethanol,D2M26,last,734
@@ -1834,14 +1834,14 @@ fecha,categoria,instrumento,contrato,metrica,valor
 2026-06-19,barchart_front,Ethanol,D2M26,open_int,659
 2026-06-19,barchart_front,Ethanol,D2M26,previous,734
 2026-06-19,barchart_front,Ethanol,D2M26,volume,20
-2026-06-19,barchart_front,LON5,SWQ26,change,-4.4
+2026-06-19,barchart_front,LON5,SWQ26,change,-4.7
 2026-06-19,barchart_front,LON5,SWQ26,high,447.3
-2026-06-19,barchart_front,LON5,SWQ26,last,440.9
+2026-06-19,barchart_front,LON5,SWQ26,last,440.6
 2026-06-19,barchart_front,LON5,SWQ26,low,439.7
 2026-06-19,barchart_front,LON5,SWQ26,open,446.1
 2026-06-19,barchart_front,LON5,SWQ26,open_int,51894
 2026-06-19,barchart_front,LON5,SWQ26,previous,445.3
-2026-06-19,barchart_front,LON5,SWQ26,volume,3220
+2026-06-19,barchart_front,LON5,SWQ26,volume,3473
 2026-06-19,barchart_front,NY11,SBN26,change,0
 2026-06-19,barchart_front,NY11,SBN26,high,13.97
 2026-06-19,barchart_front,NY11,SBN26,last,13.59
@@ -1850,14 +1850,14 @@ fecha,categoria,instrumento,contrato,metrica,valor
 2026-06-19,barchart_front,NY11,SBN26,open_int,105626
 2026-06-19,barchart_front,NY11,SBN26,previous,13.59
 2026-06-19,barchart_front,NY11,SBN26,volume,39504
-2026-06-19,barchart_front,Petroleo,CLN26,change,0.55000000000001
+2026-06-19,barchart_front,Petroleo,CLN26,change,-0.049999999999997
 2026-06-19,barchart_front,Petroleo,CLN26,high,78.36
-2026-06-19,barchart_front,Petroleo,CLN26,last,77.15
+2026-06-19,barchart_front,Petroleo,CLN26,last,76.55
 2026-06-19,barchart_front,Petroleo,CLN26,low,75.91
 2026-06-19,barchart_front,Petroleo,CLN26,open,76.49
 2026-06-19,barchart_front,Petroleo,CLN26,open_int,20417
 2026-06-19,barchart_front,Petroleo,CLN26,previous,76.6
-2026-06-19,barchart_front,Petroleo,CLN26,volume,1627
+2026-06-19,barchart_front,Petroleo,CLN26,volume,1767
 2026-06-19,divisas,EUR a USD,,compra,1.147068
 2026-06-19,divisas,EUR a USD,,venta,1.147068
 2026-06-19,divisas,USD a COP,,compra,3453.325477
