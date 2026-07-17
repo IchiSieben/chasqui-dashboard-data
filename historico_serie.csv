@@ -3467,3 +3467,97 @@ fecha,categoria,instrumento,contrato,metrica,valor
 2026-07-16,sunat_total,,,total_fob_usd,730186.56
 2026-07-16,sunat_total,,,total_importadores,7
 2026-07-16,sunat_total,,,total_peso_kg,1496348
+2026-07-17,barchart_curva,Ethanol,D2N27,last,620
+2026-07-17,barchart_curva,Ethanol,D2Q26,last,700
+2026-07-17,barchart_curva,Ethanol,D2V26,last,720
+2026-07-17,barchart_curva,LON5,SWH27,last,459.8
+2026-07-17,barchart_curva,LON5,SWK27,last,460.3
+2026-07-17,barchart_curva,LON5,SWQ27,last,457.6
+2026-07-17,barchart_curva,LON5,SWV26,last,461.2
+2026-07-17,barchart_curva,LON5,SWV27,last,457.1
+2026-07-17,barchart_curva,LON5,SWZ26,last,459.4
+2026-07-17,barchart_curva,NY11,SBH27,last,15.58
+2026-07-17,barchart_curva,NY11,SBH28,last,16.41
+2026-07-17,barchart_curva,NY11,SBK27,last,15.4
+2026-07-17,barchart_curva,NY11,SBN27,last,15.41
+2026-07-17,barchart_curva,NY11,SBV26,last,14.65
+2026-07-17,barchart_curva,NY11,SBV27,last,15.73
+2026-07-17,barchart_curva,Petroleo,CLF27,last,75.71
+2026-07-17,barchart_curva,Petroleo,CLQ26,last,80.88
+2026-07-17,barchart_curva,Petroleo,CLU26,last,80.14
+2026-07-17,barchart_curva,Petroleo,CLV26,last,78.89
+2026-07-17,barchart_curva,Petroleo,CLX26,last,77.65
+2026-07-17,barchart_curva,Petroleo,CLZ26,last,76.61
+2026-07-17,barchart_front,Ethanol,D2Q26,change,14.333
+2026-07-17,barchart_front,Ethanol,D2Q26,high,700
+2026-07-17,barchart_front,Ethanol,D2Q26,last,700
+2026-07-17,barchart_front,Ethanol,D2Q26,low,700
+2026-07-17,barchart_front,Ethanol,D2Q26,open,0
+2026-07-17,barchart_front,Ethanol,D2Q26,open_int,602
+2026-07-17,barchart_front,Ethanol,D2Q26,previous,685.667
+2026-07-17,barchart_front,Ethanol,D2Q26,volume,25
+2026-07-17,barchart_front,LON5,SWV26,change,6.6
+2026-07-17,barchart_front,LON5,SWV26,high,461.7
+2026-07-17,barchart_front,LON5,SWV26,last,461.2
+2026-07-17,barchart_front,LON5,SWV26,low,452
+2026-07-17,barchart_front,LON5,SWV26,open,454.6
+2026-07-17,barchart_front,LON5,SWV26,open_int,83699
+2026-07-17,barchart_front,LON5,SWV26,previous,454.6
+2026-07-17,barchart_front,LON5,SWV26,volume,3043
+2026-07-17,barchart_front,NY11,SBV26,change,0.21
+2026-07-17,barchart_front,NY11,SBV26,high,14.68
+2026-07-17,barchart_front,NY11,SBV26,last,14.65
+2026-07-17,barchart_front,NY11,SBV26,low,14.39
+2026-07-17,barchart_front,NY11,SBV26,open,14.45
+2026-07-17,barchart_front,NY11,SBV26,open_int,487197
+2026-07-17,barchart_front,NY11,SBV26,previous,14.44
+2026-07-17,barchart_front,NY11,SBV26,volume,9931
+2026-07-17,barchart_front,Petroleo,CLQ26,change,1.93
+2026-07-17,barchart_front,Petroleo,CLQ26,high,80.93
+2026-07-17,barchart_front,Petroleo,CLQ26,last,80.88
+2026-07-17,barchart_front,Petroleo,CLQ26,low,78.61
+2026-07-17,barchart_front,Petroleo,CLQ26,open,79.57
+2026-07-17,barchart_front,Petroleo,CLQ26,open_int,71465
+2026-07-17,barchart_front,Petroleo,CLQ26,previous,78.95
+2026-07-17,barchart_front,Petroleo,CLQ26,volume,19869
+2026-07-17,divisas,EUR a USD,,compra,1.144845
+2026-07-17,divisas,EUR a USD,,venta,1.144845
+2026-07-17,divisas,USD a COP,,compra,3226.083313
+2026-07-17,divisas,USD a COP,,venta,3226.083313
+2026-07-17,divisas,USD a PEN,,compra,3.389
+2026-07-17,divisas,USD a PEN,,venta,3.396
+2026-07-17,sunat_categoria,BLANCAS,,declaraciones,7
+2026-07-17,sunat_categoria,BLANCAS,,fob,585495.49
+2026-07-17,sunat_categoria,BLANCAS,,peso_kg,1087595
+2026-07-17,sunat_categoria,CARBURANTE,,declaraciones,0
+2026-07-17,sunat_categoria,CARBURANTE,,fob,0
+2026-07-17,sunat_categoria,CARBURANTE,,peso_kg,0
+2026-07-17,sunat_categoria,ETILICO,,declaraciones,2
+2026-07-17,sunat_categoria,ETILICO,,fob,54933.91
+2026-07-17,sunat_categoria,ETILICO,,peso_kg,57226
+2026-07-17,sunat_categoria,RUBIAS,,declaraciones,0
+2026-07-17,sunat_categoria,RUBIAS,,fob,0
+2026-07-17,sunat_categoria,RUBIAS,,peso_kg,0
+2026-07-17,sunat_importador,20109714039,,declaraciones,2
+2026-07-17,sunat_importador,20109714039,,fob,133639.5
+2026-07-17,sunat_importador,20272858218,,declaraciones,1
+2026-07-17,sunat_importador,20272858218,,fob,58050.0
+2026-07-17,sunat_importador,20273155938,,declaraciones,2
+2026-07-17,sunat_importador,20273155938,,fob,49300.0
+2026-07-17,sunat_importador,20303585622,,declaraciones,1
+2026-07-17,sunat_importador,20303585622,,fob,156733.29
+2026-07-17,sunat_importador,20331061655,,declaraciones,1
+2026-07-17,sunat_importador,20331061655,,fob,93886.35
+2026-07-17,sunat_marca,INCAUCA,,fob,156733.29
+2026-07-17,sunat_marca,RIOPAILA,,fob,58050.0
+2026-07-17,sunat_marca,RISARALDA,,fob,133639.5
+2026-07-17,sunat_marca,S/M,,fob,54933.91
+2026-07-17,sunat_marca,SAN AURELIO,,fob,49300.0
+2026-07-17,sunat_marca,SANTA ANA,,fob,93886.35
+2026-07-17,sunat_pais,Bolivia,BO,fob,104233.91
+2026-07-17,sunat_pais,Colombia,CO,fob,348422.79
+2026-07-17,sunat_pais,Guatemala,GT,fob,93886.35
+2026-07-17,sunat_total,,,total_declaraciones,9
+2026-07-17,sunat_total,,,total_fob_usd,640429.4
+2026-07-17,sunat_total,,,total_importadores,7
+2026-07-17,sunat_total,,,total_peso_kg,1144821
