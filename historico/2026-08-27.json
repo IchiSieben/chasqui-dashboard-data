@@ -4,117 +4,117 @@
     "NY11": {
       "front": {
         "contract": "SBV26",
-        "last": 17.71,
-        "change": 0.12,
+        "last": 18.19,
+        "change": 0.6,
         "open": 17.62,
-        "high": 17.9,
+        "high": 18.22,
         "low": 17.55,
         "previous": 17.59,
-        "volume": 38780,
-        "open_int": 460995
+        "volume": 115760,
+        "open_int": 459274
       },
       "curva": [
         {
           "contract": "SBV26",
-          "last": 17.71
+          "last": 18.19
         },
         {
           "contract": "SBH27",
-          "last": 18.69
+          "last": 19.19
         },
         {
           "contract": "SBK27",
-          "last": 18.12
+          "last": 18.54
         },
         {
           "contract": "SBN27",
-          "last": 17.71
+          "last": 18.06
         },
         {
           "contract": "SBV27",
-          "last": 17.71
+          "last": 18.05
         },
         {
           "contract": "SBH28",
-          "last": 18.08
+          "last": 18.36
         }
       ]
     },
     "LON5": {
       "front": {
         "contract": "SWV26",
-        "last": 514.2,
-        "change": 0.20000000000005,
+        "last": 524.3,
+        "change": 10.3,
         "open": 517.3,
-        "high": 518.5,
+        "high": 525,
         "low": 513,
         "previous": 514,
-        "volume": 6130,
+        "volume": 20061,
         "open_int": 62367
       },
       "curva": [
         {
           "contract": "SWV26",
-          "last": 514.2
+          "last": 524.3
         },
         {
           "contract": "SWZ26",
-          "last": 514.9
+          "last": 528.8
         },
         {
           "contract": "SWH27",
-          "last": 516.6
+          "last": 532.8
         },
         {
           "contract": "SWK27",
-          "last": 516.6
+          "last": 532.2
         },
         {
           "contract": "SWQ27",
-          "last": 513
+          "last": 524.9
         },
         {
           "contract": "SWV27",
-          "last": 510.2
+          "last": 518.2
         }
       ]
     },
     "Petroleo": {
       "front": {
         "contract": "CLV26",
-        "last": 82.51,
-        "change": 0.28,
+        "last": 83.67,
+        "change": 1.44,
         "open": 82,
-        "high": 82.81,
+        "high": 84.27,
         "low": 80.65,
         "previous": 82.23,
-        "volume": 72164,
-        "open_int": 269520
+        "volume": 198026,
+        "open_int": 268872
       },
       "curva": [
         {
           "contract": "CLV26",
-          "last": 82.51
+          "last": 83.67
         },
         {
           "contract": "CLX26",
-          "last": 81
+          "last": 82.05
         },
         {
           "contract": "CLZ26",
-          "last": 79.29
+          "last": 80.11
         },
         {
           "contract": "CLF27",
-          "last": 77.65
+          "last": 78.23
         },
         {
           "contract": "CLG27",
-          "last": 76.24
+          "last": 76.65
         },
         {
           "contract": "CLH27",
-          "last": 75.08
+          "last": 75.36
         }
       ]
     },
@@ -182,28 +182,28 @@
     }
   ],
   "sunat": {
-    "total_fob_usd": 957179.31,
-    "total_peso_kg": 1463062.5440000002,
-    "total_declaraciones": 9,
-    "total_importadores": 4,
+    "total_fob_usd": 1195047.77,
+    "total_peso_kg": 1936402.5440000002,
+    "total_declaraciones": 15,
+    "total_importadores": 8,
     "por_categoria": [
       {
         "categoria": "RUBIAS",
-        "declaraciones": 0,
-        "fob": 0,
-        "peso_kg": 0
+        "declaraciones": 1,
+        "fob": 38280,
+        "peso_kg": 87000
       },
       {
         "categoria": "BLANCAS",
-        "declaraciones": 8,
-        "fob": 689666.09,
-        "peso_kg": 1452595
+        "declaraciones": 11,
+        "fob": 851346.27,
+        "peso_kg": 1781595
       },
       {
         "categoria": "ETILICO",
-        "declaraciones": 1,
-        "fob": 267513.22,
-        "peso_kg": 10467.544
+        "declaraciones": 3,
+        "fob": 305421.5,
+        "peso_kg": 67807.544
       },
       {
         "categoria": "CARBURANTE",
@@ -215,8 +215,8 @@
     "top_importadores": [
       {
         "ruc": "20303585622",
-        "fob": 337905.09,
-        "declaraciones": 5
+        "fob": 427335.27,
+        "declaraciones": 6
       },
       {
         "ruc": "20603624913",
@@ -232,6 +232,11 @@
         "ruc": "20602194303",
         "fob": 125663.0,
         "declaraciones": 1
+      },
+      {
+        "ruc": "20273155938",
+        "fob": 72250.0,
+        "declaraciones": 2
       }
     ],
     "top_marcas": [
@@ -245,27 +250,31 @@
       },
       {
         "marca": "S/M",
-        "fob": 133756.61
+        "fob": 171664.89
+      },
+      {
+        "marca": "MANUELITA",
+        "fob": 134145.27
       },
       {
         "marca": "MAYAGUEZ",
         "fob": 125663.0
       },
       {
-        "marca": "MANUELITA",
-        "fob": 44715.09
+        "marca": "SAN AURELIO",
+        "fob": 72250.0
       }
     ],
     "por_pais": [
       {
         "pais": "Colombia",
         "codigo": "CO",
-        "fob": 396476.09
+        "fob": 485906.27
       },
       {
         "pais": "Bolivia",
         "codigo": "BO",
-        "fob": 293190.0
+        "fob": 441628.28
       },
       {
         "pais": "DE",
