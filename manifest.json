@@ -34,6 +34,7 @@
     "2026-07-06",
     "2026-07-07",
     "2026-07-08",
+    "2026-07-09",
     "2026-07-10",
     "2026-07-13",
     "2026-07-14",
@@ -61,14 +62,579 @@
     "2026-08-13",
     "2026-08-14",
     "2026-08-17",
+    "2026-08-18",
     "2026-08-19",
     "2026-08-20",
     "2026-08-21",
     "2026-08-24",
     "2026-08-25",
     "2026-08-26",
-    "2026-08-27"
+    "2026-08-27",
+    "2026-08-28",
+    "2026-08-31",
+    "2026-09-01",
+    "2026-09-02",
+    "2026-09-03",
+    "2026-09-04"
   ],
-  "total_dias": 68,
-  "ultima_actualizacion": "2026-08-27T20:06:23+00:00"
+  "total_dias": 76,
+  "settlement_canonico_desde": "2026-07-09",
+  "historia_cubre": {
+    "desde": "2025-01-09",
+    "hasta": "2026-09-04"
+  },
+  "dias_sin_sesion": [],
+  "huecos_permanentes": {
+    "2026-05-29": "no_hubo_corrida",
+    "2026-06-30": "fuera_de_rango_historia_gratuita"
+  },
+  "dias": {
+    "2026-05-20": {
+      "settlement": false,
+      "intradia": true,
+      "sin_sesion": false,
+      "origen": "captura_vivo_hora_desconocida",
+      "motivo_sin_settlement": "fuera_de_rango_historia_gratuita"
+    },
+    "2026-05-21": {
+      "settlement": false,
+      "intradia": true,
+      "sin_sesion": false,
+      "origen": "captura_vivo_hora_desconocida",
+      "motivo_sin_settlement": "fuera_de_rango_historia_gratuita"
+    },
+    "2026-05-22": {
+      "settlement": false,
+      "intradia": true,
+      "sin_sesion": false,
+      "origen": "captura_vivo_hora_desconocida",
+      "motivo_sin_settlement": "fuera_de_rango_historia_gratuita"
+    },
+    "2026-05-25": {
+      "settlement": false,
+      "intradia": true,
+      "sin_sesion": false,
+      "origen": "captura_vivo_hora_desconocida",
+      "motivo_sin_settlement": "fuera_de_rango_historia_gratuita"
+    },
+    "2026-05-26": {
+      "settlement": false,
+      "intradia": true,
+      "sin_sesion": false,
+      "origen": "captura_vivo_hora_desconocida",
+      "motivo_sin_settlement": "fuera_de_rango_historia_gratuita"
+    },
+    "2026-05-27": {
+      "settlement": false,
+      "intradia": true,
+      "sin_sesion": false,
+      "origen": "captura_vivo_hora_desconocida",
+      "motivo_sin_settlement": "fuera_de_rango_historia_gratuita"
+    },
+    "2026-05-28": {
+      "settlement": false,
+      "intradia": true,
+      "sin_sesion": false,
+      "origen": "captura_vivo_hora_desconocida",
+      "motivo_sin_settlement": "fuera_de_rango_historia_gratuita"
+    },
+    "2026-06-01": {
+      "settlement": false,
+      "intradia": true,
+      "sin_sesion": false,
+      "origen": "captura_vivo_hora_desconocida",
+      "motivo_sin_settlement": "fuera_de_rango_historia_gratuita"
+    },
+    "2026-06-02": {
+      "settlement": false,
+      "intradia": true,
+      "sin_sesion": false,
+      "origen": "captura_vivo_hora_desconocida",
+      "motivo_sin_settlement": "fuera_de_rango_historia_gratuita"
+    },
+    "2026-06-03": {
+      "settlement": false,
+      "intradia": true,
+      "sin_sesion": false,
+      "origen": "captura_vivo_hora_desconocida",
+      "motivo_sin_settlement": "fuera_de_rango_historia_gratuita"
+    },
+    "2026-06-04": {
+      "settlement": false,
+      "intradia": true,
+      "sin_sesion": false,
+      "origen": "captura_vivo_hora_desconocida",
+      "motivo_sin_settlement": "fuera_de_rango_historia_gratuita"
+    },
+    "2026-06-05": {
+      "settlement": false,
+      "intradia": true,
+      "sin_sesion": false,
+      "origen": "captura_vivo_hora_desconocida",
+      "motivo_sin_settlement": "fuera_de_rango_historia_gratuita"
+    },
+    "2026-06-08": {
+      "settlement": false,
+      "intradia": true,
+      "sin_sesion": false,
+      "origen": "captura_vivo_hora_desconocida",
+      "motivo_sin_settlement": "fuera_de_rango_historia_gratuita"
+    },
+    "2026-06-09": {
+      "settlement": false,
+      "intradia": true,
+      "sin_sesion": false,
+      "origen": "captura_vivo_hora_desconocida",
+      "motivo_sin_settlement": "fuera_de_rango_historia_gratuita"
+    },
+    "2026-06-10": {
+      "settlement": false,
+      "intradia": true,
+      "sin_sesion": false,
+      "origen": "captura_vivo_hora_desconocida",
+      "motivo_sin_settlement": "fuera_de_rango_historia_gratuita"
+    },
+    "2026-06-11": {
+      "settlement": false,
+      "intradia": true,
+      "sin_sesion": false,
+      "origen": "captura_vivo_hora_desconocida",
+      "motivo_sin_settlement": "fuera_de_rango_historia_gratuita"
+    },
+    "2026-06-12": {
+      "settlement": false,
+      "intradia": true,
+      "sin_sesion": false,
+      "origen": "captura_vivo_hora_desconocida",
+      "motivo_sin_settlement": "fuera_de_rango_historia_gratuita"
+    },
+    "2026-06-15": {
+      "settlement": false,
+      "intradia": true,
+      "sin_sesion": false,
+      "origen": "captura_vivo_hora_desconocida",
+      "motivo_sin_settlement": "fuera_de_rango_historia_gratuita"
+    },
+    "2026-06-16": {
+      "settlement": false,
+      "intradia": true,
+      "sin_sesion": false,
+      "origen": "captura_vivo_hora_desconocida",
+      "motivo_sin_settlement": "fuera_de_rango_historia_gratuita"
+    },
+    "2026-06-17": {
+      "settlement": false,
+      "intradia": true,
+      "sin_sesion": false,
+      "origen": "captura_vivo_hora_desconocida",
+      "motivo_sin_settlement": "fuera_de_rango_historia_gratuita"
+    },
+    "2026-06-18": {
+      "settlement": false,
+      "intradia": true,
+      "sin_sesion": false,
+      "origen": "captura_vivo_hora_desconocida",
+      "motivo_sin_settlement": "fuera_de_rango_historia_gratuita"
+    },
+    "2026-06-19": {
+      "settlement": false,
+      "intradia": true,
+      "sin_sesion": false,
+      "origen": "captura_vivo_hora_desconocida",
+      "motivo_sin_settlement": "fuera_de_rango_historia_gratuita"
+    },
+    "2026-06-22": {
+      "settlement": false,
+      "intradia": true,
+      "sin_sesion": false,
+      "origen": "captura_vivo_hora_desconocida",
+      "motivo_sin_settlement": "fuera_de_rango_historia_gratuita"
+    },
+    "2026-06-23": {
+      "settlement": false,
+      "intradia": true,
+      "sin_sesion": false,
+      "origen": "captura_vivo_hora_desconocida",
+      "motivo_sin_settlement": "fuera_de_rango_historia_gratuita"
+    },
+    "2026-06-24": {
+      "settlement": false,
+      "intradia": true,
+      "sin_sesion": false,
+      "origen": "captura_vivo_hora_desconocida",
+      "motivo_sin_settlement": "fuera_de_rango_historia_gratuita"
+    },
+    "2026-06-25": {
+      "settlement": false,
+      "intradia": true,
+      "sin_sesion": false,
+      "origen": "captura_vivo_hora_desconocida",
+      "motivo_sin_settlement": "fuera_de_rango_historia_gratuita"
+    },
+    "2026-06-26": {
+      "settlement": false,
+      "intradia": true,
+      "sin_sesion": false,
+      "origen": "captura_vivo_hora_desconocida",
+      "motivo_sin_settlement": "fuera_de_rango_historia_gratuita"
+    },
+    "2026-06-29": {
+      "settlement": false,
+      "intradia": true,
+      "sin_sesion": false,
+      "origen": "captura_vivo_hora_desconocida",
+      "motivo_sin_settlement": "fuera_de_rango_historia_gratuita"
+    },
+    "2026-07-01": {
+      "settlement": false,
+      "intradia": true,
+      "sin_sesion": false,
+      "origen": "captura_vivo_hora_desconocida",
+      "motivo_sin_settlement": "fuera_de_rango_historia_gratuita"
+    },
+    "2026-07-02": {
+      "settlement": false,
+      "intradia": true,
+      "sin_sesion": false,
+      "origen": "captura_vivo_hora_desconocida",
+      "motivo_sin_settlement": "fuera_de_rango_historia_gratuita"
+    },
+    "2026-07-03": {
+      "settlement": false,
+      "intradia": true,
+      "sin_sesion": false,
+      "origen": "captura_vivo_hora_desconocida",
+      "motivo_sin_settlement": "fuera_de_rango_historia_gratuita"
+    },
+    "2026-07-06": {
+      "settlement": false,
+      "intradia": true,
+      "sin_sesion": false,
+      "origen": "captura_vivo_hora_desconocida",
+      "motivo_sin_settlement": "fuera_de_rango_historia_gratuita"
+    },
+    "2026-07-07": {
+      "settlement": false,
+      "intradia": true,
+      "sin_sesion": false,
+      "origen": "captura_vivo_hora_desconocida",
+      "motivo_sin_settlement": "fuera_de_rango_historia_gratuita"
+    },
+    "2026-07-08": {
+      "settlement": false,
+      "intradia": true,
+      "sin_sesion": false,
+      "origen": "captura_vivo_hora_desconocida",
+      "motivo_sin_settlement": "fuera_de_rango_historia_gratuita"
+    },
+    "2026-07-09": {
+      "settlement": true,
+      "intradia": false,
+      "sin_sesion": false,
+      "origen": "settlement_historico",
+      "motivo_sin_settlement": null
+    },
+    "2026-07-10": {
+      "settlement": true,
+      "intradia": true,
+      "sin_sesion": false,
+      "origen": "captura_vivo_hora_desconocida",
+      "motivo_sin_settlement": null
+    },
+    "2026-07-13": {
+      "settlement": true,
+      "intradia": true,
+      "sin_sesion": false,
+      "origen": "captura_vivo_hora_desconocida",
+      "motivo_sin_settlement": null
+    },
+    "2026-07-14": {
+      "settlement": true,
+      "intradia": true,
+      "sin_sesion": false,
+      "origen": "captura_vivo_hora_desconocida",
+      "motivo_sin_settlement": null
+    },
+    "2026-07-15": {
+      "settlement": true,
+      "intradia": true,
+      "sin_sesion": false,
+      "origen": "captura_vivo_hora_desconocida",
+      "motivo_sin_settlement": null
+    },
+    "2026-07-16": {
+      "settlement": true,
+      "intradia": true,
+      "sin_sesion": false,
+      "origen": "captura_vivo_hora_desconocida",
+      "motivo_sin_settlement": null
+    },
+    "2026-07-17": {
+      "settlement": true,
+      "intradia": true,
+      "sin_sesion": false,
+      "origen": "captura_vivo_hora_desconocida",
+      "motivo_sin_settlement": null
+    },
+    "2026-07-20": {
+      "settlement": true,
+      "intradia": true,
+      "sin_sesion": false,
+      "origen": "captura_vivo_hora_desconocida",
+      "motivo_sin_settlement": null
+    },
+    "2026-07-21": {
+      "settlement": true,
+      "intradia": true,
+      "sin_sesion": false,
+      "origen": "captura_vivo_hora_desconocida",
+      "motivo_sin_settlement": null
+    },
+    "2026-07-22": {
+      "settlement": true,
+      "intradia": true,
+      "sin_sesion": false,
+      "origen": "captura_vivo_hora_desconocida",
+      "motivo_sin_settlement": null
+    },
+    "2026-07-23": {
+      "settlement": true,
+      "intradia": true,
+      "sin_sesion": false,
+      "origen": "captura_vivo_hora_desconocida",
+      "motivo_sin_settlement": null
+    },
+    "2026-07-24": {
+      "settlement": true,
+      "intradia": true,
+      "sin_sesion": false,
+      "origen": "captura_vivo_hora_desconocida",
+      "motivo_sin_settlement": null
+    },
+    "2026-07-27": {
+      "settlement": true,
+      "intradia": true,
+      "sin_sesion": false,
+      "origen": "captura_vivo_hora_desconocida",
+      "motivo_sin_settlement": null
+    },
+    "2026-07-28": {
+      "settlement": true,
+      "intradia": true,
+      "sin_sesion": false,
+      "origen": "captura_vivo_hora_desconocida",
+      "motivo_sin_settlement": null
+    },
+    "2026-07-29": {
+      "settlement": true,
+      "intradia": true,
+      "sin_sesion": false,
+      "origen": "captura_vivo_hora_desconocida",
+      "motivo_sin_settlement": null
+    },
+    "2026-07-30": {
+      "settlement": true,
+      "intradia": true,
+      "sin_sesion": false,
+      "origen": "captura_vivo_hora_desconocida",
+      "motivo_sin_settlement": null
+    },
+    "2026-07-31": {
+      "settlement": true,
+      "intradia": true,
+      "sin_sesion": false,
+      "origen": "captura_vivo_hora_desconocida",
+      "motivo_sin_settlement": null
+    },
+    "2026-08-03": {
+      "settlement": true,
+      "intradia": true,
+      "sin_sesion": false,
+      "origen": "captura_vivo_hora_desconocida",
+      "motivo_sin_settlement": null
+    },
+    "2026-08-04": {
+      "settlement": true,
+      "intradia": true,
+      "sin_sesion": false,
+      "origen": "captura_vivo_hora_desconocida",
+      "motivo_sin_settlement": null
+    },
+    "2026-08-05": {
+      "settlement": true,
+      "intradia": true,
+      "sin_sesion": false,
+      "origen": "captura_vivo_hora_desconocida",
+      "motivo_sin_settlement": null
+    },
+    "2026-08-06": {
+      "settlement": true,
+      "intradia": true,
+      "sin_sesion": false,
+      "origen": "captura_vivo_hora_desconocida",
+      "motivo_sin_settlement": null
+    },
+    "2026-08-07": {
+      "settlement": true,
+      "intradia": true,
+      "sin_sesion": false,
+      "origen": "captura_vivo_hora_desconocida",
+      "motivo_sin_settlement": null
+    },
+    "2026-08-10": {
+      "settlement": true,
+      "intradia": true,
+      "sin_sesion": false,
+      "origen": "captura_vivo_hora_desconocida",
+      "motivo_sin_settlement": null
+    },
+    "2026-08-11": {
+      "settlement": true,
+      "intradia": true,
+      "sin_sesion": false,
+      "origen": "captura_vivo_hora_desconocida",
+      "motivo_sin_settlement": null
+    },
+    "2026-08-12": {
+      "settlement": true,
+      "intradia": true,
+      "sin_sesion": false,
+      "origen": "captura_vivo_hora_desconocida",
+      "motivo_sin_settlement": null
+    },
+    "2026-08-13": {
+      "settlement": true,
+      "intradia": true,
+      "sin_sesion": false,
+      "origen": "captura_vivo_hora_desconocida",
+      "motivo_sin_settlement": null
+    },
+    "2026-08-14": {
+      "settlement": true,
+      "intradia": true,
+      "sin_sesion": false,
+      "origen": "captura_vivo_hora_desconocida",
+      "motivo_sin_settlement": null
+    },
+    "2026-08-17": {
+      "settlement": true,
+      "intradia": true,
+      "sin_sesion": false,
+      "origen": "captura_vivo_hora_desconocida",
+      "motivo_sin_settlement": null
+    },
+    "2026-08-18": {
+      "settlement": true,
+      "intradia": false,
+      "sin_sesion": false,
+      "origen": "settlement_historico",
+      "motivo_sin_settlement": null
+    },
+    "2026-08-19": {
+      "settlement": true,
+      "intradia": true,
+      "sin_sesion": false,
+      "origen": "captura_vivo_hora_desconocida",
+      "motivo_sin_settlement": null
+    },
+    "2026-08-20": {
+      "settlement": true,
+      "intradia": true,
+      "sin_sesion": false,
+      "origen": "captura_vivo_hora_desconocida",
+      "motivo_sin_settlement": null
+    },
+    "2026-08-21": {
+      "settlement": true,
+      "intradia": true,
+      "sin_sesion": false,
+      "origen": "captura_vivo_hora_desconocida",
+      "motivo_sin_settlement": null
+    },
+    "2026-08-24": {
+      "settlement": true,
+      "intradia": true,
+      "sin_sesion": false,
+      "origen": "captura_vivo_hora_desconocida",
+      "motivo_sin_settlement": null
+    },
+    "2026-08-25": {
+      "settlement": true,
+      "intradia": true,
+      "sin_sesion": false,
+      "origen": "captura_vivo_hora_desconocida",
+      "motivo_sin_settlement": null
+    },
+    "2026-08-26": {
+      "settlement": true,
+      "intradia": true,
+      "sin_sesion": false,
+      "origen": "captura_vivo_hora_desconocida",
+      "motivo_sin_settlement": null
+    },
+    "2026-08-27": {
+      "settlement": true,
+      "intradia": true,
+      "sin_sesion": false,
+      "origen": "captura_vivo_hora_desconocida",
+      "motivo_sin_settlement": null
+    },
+    "2026-08-28": {
+      "settlement": true,
+      "intradia": false,
+      "sin_sesion": false,
+      "origen": "settlement_historico",
+      "motivo_sin_settlement": null
+    },
+    "2026-08-31": {
+      "settlement": true,
+      "intradia": false,
+      "sin_sesion": false,
+      "origen": "settlement_historico",
+      "motivo_sin_settlement": null
+    },
+    "2026-09-01": {
+      "settlement": true,
+      "intradia": false,
+      "sin_sesion": false,
+      "origen": "settlement_historico",
+      "motivo_sin_settlement": null
+    },
+    "2026-09-02": {
+      "settlement": true,
+      "intradia": false,
+      "sin_sesion": false,
+      "origen": "settlement_historico",
+      "motivo_sin_settlement": null
+    },
+    "2026-09-03": {
+      "settlement": true,
+      "intradia": false,
+      "sin_sesion": false,
+      "origen": "settlement_historico",
+      "motivo_sin_settlement": null
+    },
+    "2026-09-04": {
+      "settlement": true,
+      "intradia": false,
+      "sin_sesion": false,
+      "origen": "settlement_historico",
+      "motivo_sin_settlement": null
+    },
+    "2026-05-29": {
+      "settlement": false,
+      "intradia": false,
+      "sin_sesion": false,
+      "origen": null,
+      "motivo_sin_settlement": "no_hubo_corrida"
+    },
+    "2026-06-30": {
+      "settlement": false,
+      "intradia": false,
+      "sin_sesion": false,
+      "origen": null,
+      "motivo_sin_settlement": "fuera_de_rango_historia_gratuita"
+    }
+  },
+  "ultima_actualizacion": "2026-09-05T20:05:41+00:00"
 }
