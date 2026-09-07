@@ -44,55 +44,55 @@
     "LON5": {
       "front": {
         "contract": "SWV26",
-        "last": 525.9,
-        "change": 2.8,
+        "last": 525.5,
+        "change": 2.4,
         "open": 526.5,
         "high": 530.2,
         "low": 520,
         "previous": 523.1,
-        "volume": 3793,
+        "volume": 4695,
         "open_int": 32318,
-        "fecha_dato": "07:07 CT"
+        "fecha_dato": "10:16 CT"
       },
       "curva": [
         {
           "contract": "SWV26",
-          "last": 525.9
+          "last": 525.5
         },
         {
           "contract": "SWZ26",
-          "last": 524.1
+          "last": 523
         },
         {
           "contract": "SWH27",
-          "last": 528.5
+          "last": 527.1
         },
         {
           "contract": "SWK27",
-          "last": 529.5
+          "last": 528
         },
         {
           "contract": "SWQ27",
-          "last": 522.1
+          "last": 523
         },
         {
           "contract": "SWV27",
-          "last": 520.4
+          "last": 516.2
         }
       ]
     },
     "Petroleo": {
       "front": {
         "contract": "CLV26",
-        "last": 92.4,
-        "change": 0.92,
+        "last": 92.97,
+        "change": 1.49,
         "open": 92.26,
-        "high": 93.04,
+        "high": 93.29,
         "low": 90.87,
         "previous": 91.48,
-        "volume": 54673,
+        "volume": 82479,
         "open_int": 231068,
-        "fecha_dato": "07:16 CT"
+        "fecha_dato": "10:17 CT"
       },
       "curva": [
         {
@@ -101,23 +101,23 @@
         },
         {
           "contract": "CLV26",
-          "last": 92.4
+          "last": 92.97
         },
         {
           "contract": "CLX26",
-          "last": 89.61
+          "last": 89.88
         },
         {
           "contract": "CLZ26",
-          "last": 86.51
+          "last": 86.57
         },
         {
           "contract": "CLF27",
-          "last": 83.74
+          "last": 83.73
         },
         {
           "contract": "CLG27",
-          "last": 81.31
+          "last": 81.26
         }
       ]
     },
