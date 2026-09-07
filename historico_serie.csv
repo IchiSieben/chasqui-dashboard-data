@@ -9341,3 +9341,75 @@ fecha,categoria,instrumento,contrato,metrica,valor,origen,sin_sesion,hora_captur
 2026-09-04,sunat_total,,,total_fob_usd,7097117.17,,,
 2026-09-04,sunat_total,,,total_importadores,13,,,
 2026-09-04,sunat_total,,,total_peso_kg,10781210.6,,,
+2026-09-07,barchart_curva,LON5,SWH27,intradia,528.5,captura_vivo,,2026-09-07T12:27:55+00:00
+2026-09-07,barchart_curva,LON5,SWK27,intradia,529.5,captura_vivo,,2026-09-07T12:27:55+00:00
+2026-09-07,barchart_curva,LON5,SWQ27,intradia,522.1,captura_vivo,,2026-09-07T12:27:55+00:00
+2026-09-07,barchart_curva,LON5,SWV26,intradia,525.9,captura_vivo,,2026-09-07T12:27:55+00:00
+2026-09-07,barchart_curva,LON5,SWV27,intradia,520.4,captura_vivo,,2026-09-07T12:27:55+00:00
+2026-09-07,barchart_curva,LON5,SWZ26,intradia,524.1,captura_vivo,,2026-09-07T12:27:55+00:00
+2026-09-07,barchart_curva,Petroleo,CLF27,intradia,83.74,captura_vivo,,2026-09-07T12:27:55+00:00
+2026-09-07,barchart_curva,Petroleo,CLG27,intradia,81.31,captura_vivo,,2026-09-07T12:27:55+00:00
+2026-09-07,barchart_curva,Petroleo,CLV26,intradia,92.4,captura_vivo,,2026-09-07T12:27:55+00:00
+2026-09-07,barchart_curva,Petroleo,CLX26,intradia,89.61,captura_vivo,,2026-09-07T12:27:55+00:00
+2026-09-07,barchart_curva,Petroleo,CLY00,intradia,91.5,captura_vivo,,2026-09-07T12:27:55+00:00
+2026-09-07,barchart_curva,Petroleo,CLZ26,intradia,86.51,captura_vivo,,2026-09-07T12:27:55+00:00
+2026-09-07,barchart_front,LON5,SWV26,change,2.8,captura_vivo,,2026-09-07T12:27:55+00:00
+2026-09-07,barchart_front,LON5,SWV26,high,530.2,captura_vivo,,2026-09-07T12:27:55+00:00
+2026-09-07,barchart_front,LON5,SWV26,intradia,525.9,captura_vivo,,2026-09-07T12:27:55+00:00
+2026-09-07,barchart_front,LON5,SWV26,low,520,captura_vivo,,2026-09-07T12:27:55+00:00
+2026-09-07,barchart_front,LON5,SWV26,open,526.5,captura_vivo,,2026-09-07T12:27:55+00:00
+2026-09-07,barchart_front,LON5,SWV26,open_int,32318,captura_vivo,,2026-09-07T12:27:55+00:00
+2026-09-07,barchart_front,LON5,SWV26,previous,523.1,captura_vivo,,2026-09-07T12:27:55+00:00
+2026-09-07,barchart_front,LON5,SWV26,volume,3793,captura_vivo,,2026-09-07T12:27:55+00:00
+2026-09-07,barchart_front,Petroleo,CLV26,change,0.92,captura_vivo,,2026-09-07T12:27:55+00:00
+2026-09-07,barchart_front,Petroleo,CLV26,high,93.04,captura_vivo,,2026-09-07T12:27:55+00:00
+2026-09-07,barchart_front,Petroleo,CLV26,intradia,92.4,captura_vivo,,2026-09-07T12:27:55+00:00
+2026-09-07,barchart_front,Petroleo,CLV26,low,90.87,captura_vivo,,2026-09-07T12:27:55+00:00
+2026-09-07,barchart_front,Petroleo,CLV26,open,92.26,captura_vivo,,2026-09-07T12:27:55+00:00
+2026-09-07,barchart_front,Petroleo,CLV26,open_int,231068,captura_vivo,,2026-09-07T12:27:55+00:00
+2026-09-07,barchart_front,Petroleo,CLV26,previous,91.48,captura_vivo,,2026-09-07T12:27:55+00:00
+2026-09-07,barchart_front,Petroleo,CLV26,volume,54673,captura_vivo,,2026-09-07T12:27:55+00:00
+2026-09-07,divisas,EUR a USD,,compra,1.161343,,,
+2026-09-07,divisas,EUR a USD,,venta,1.161343,,,
+2026-09-07,divisas,USD a COP,,compra,3140.82713,,,
+2026-09-07,divisas,USD a COP,,venta,3140.82713,,,
+2026-09-07,divisas,USD a PEN,,compra,3.36,,,
+2026-09-07,divisas,USD a PEN,,venta,3.369,,,
+2026-09-07,sunat_categoria,BLANCAS,,declaraciones,15,,,
+2026-09-07,sunat_categoria,BLANCAS,,fob,771974.6,,,
+2026-09-07,sunat_categoria,BLANCAS,,peso_kg,1571900,,,
+2026-09-07,sunat_categoria,CARBURANTE,,declaraciones,2,,,
+2026-09-07,sunat_categoria,CARBURANTE,,fob,5579091.86,,,
+2026-09-07,sunat_categoria,CARBURANTE,,peso_kg,7552410.6,,,
+2026-09-07,sunat_categoria,ETILICO,,declaraciones,1,,,
+2026-09-07,sunat_categoria,ETILICO,,fob,10853.86,,,
+2026-09-07,sunat_categoria,ETILICO,,peso_kg,20330,,,
+2026-09-07,sunat_categoria,RUBIAS,,declaraciones,5,,,
+2026-09-07,sunat_categoria,RUBIAS,,fob,490451.5,,,
+2026-09-07,sunat_categoria,RUBIAS,,peso_kg,1066000,,,
+2026-09-07,sunat_importador,20100128218,,declaraciones,1,,,
+2026-09-07,sunat_importador,20100128218,,fob,5576862.24,,,
+2026-09-07,sunat_importador,20272858218,,declaraciones,3,,,
+2026-09-07,sunat_importador,20272858218,,fob,121287.0,,,
+2026-09-07,sunat_importador,20303585622,,declaraciones,7,,,
+2026-09-07,sunat_importador,20303585622,,fob,371896.02,,,
+2026-09-07,sunat_importador,20602194303,,declaraciones,1,,,
+2026-09-07,sunat_importador,20602194303,,fob,127717.02,,,
+2026-09-07,sunat_importador,20603624913,,declaraciones,1,,,
+2026-09-07,sunat_importador,20603624913,,fob,110000.0,,,
+2026-09-07,sunat_marca,AGUAI,,fob,211129.52,,,
+2026-09-07,sunat_marca,PICHICHI,,fob,237717.02,,,
+2026-09-07,sunat_marca,S/M,,fob,5589945.72,,,
+2026-09-07,sunat_marca,SAN ANTONIO,,fob,136966.5,,,
+2026-09-07,sunat_marca,SAN AURELIO,,fob,165465.5,,,
+2026-09-07,sunat_marca,SANTA ANA,,fob,93991.06,,,
+2026-09-07,sunat_pais,Bolivia,BO,fob,475537.88,,,
+2026-09-07,sunat_pais,Colombia,CO,fob,329180.52,,,
+2026-09-07,sunat_pais,DK,DK,fob,2229.62,,,
+2026-09-07,sunat_pais,EE.UU.,US,fob,5576862.24,,,
+2026-09-07,sunat_pais,Guatemala,GT,fob,93991.06,,,
+2026-09-07,sunat_pais,NI,NI,fob,136966.5,,,
+2026-09-07,sunat_total,,,total_declaraciones,23,,,
+2026-09-07,sunat_total,,,total_fob_usd,6852371.82,,,
+2026-09-07,sunat_total,,,total_importadores,12,,,
+2026-09-07,sunat_total,,,total_peso_kg,10210640.6,,,
