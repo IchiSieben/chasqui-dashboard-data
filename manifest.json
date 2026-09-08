@@ -76,9 +76,10 @@
     "2026-09-02",
     "2026-09-03",
     "2026-09-04",
-    "2026-09-07"
+    "2026-09-07",
+    "2026-09-08"
   ],
-  "total_dias": 77,
+  "total_dias": 78,
   "settlement_canonico_desde": "2026-07-09",
   "historia_cubre": {
     "desde": "2025-01-09",
@@ -637,5 +638,5 @@
       "motivo_sin_settlement": "fuera_de_rango_historia_gratuita"
     }
   },
-  "ultima_actualizacion": "2026-09-07T15:28:53+00:00"
+  "ultima_actualizacion": "2026-09-08T14:06:06+00:00"
 }
