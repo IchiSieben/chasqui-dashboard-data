@@ -4,15 +4,15 @@
     "NY11": {
       "front": {
         "contract": "SBV26",
-        "last": 18.57,
-        "change": 0.17,
+        "last": 18.58,
+        "change": 0.18,
         "open": 18.37,
         "high": 18.73,
         "low": 18.3,
         "previous": 18.4,
-        "volume": 49040,
+        "volume": 52131,
         "open_int": 376217,
-        "fecha_dato": "07:59 CT"
+        "fecha_dato": "08:05 CT"
       },
       "curva": [
         {
@@ -21,19 +21,19 @@
         },
         {
           "contract": "SBV26",
-          "last": 18.57
+          "last": 18.58
         },
         {
           "contract": "SBH27",
-          "last": 19.54
+          "last": 19.57
         },
         {
           "contract": "SBK27",
-          "last": 18.9
+          "last": 18.91
         },
         {
           "contract": "SBN27",
-          "last": 18.5
+          "last": 18.51
         },
         {
           "contract": "SBV27",
@@ -44,32 +44,32 @@
     "LON5": {
       "front": {
         "contract": "SWV26",
-        "last": 536.5,
-        "change": 2.2,
+        "last": 536.4,
+        "change": 2.1,
         "open": 534.2,
         "high": 542.2,
         "low": 532.6,
         "previous": 534.3,
-        "volume": 4164,
+        "volume": 4183,
         "open_int": 24775,
-        "fecha_dato": "07:59 CT"
+        "fecha_dato": "08:06 CT"
       },
       "curva": [
         {
           "contract": "SWV26",
-          "last": 536.5
+          "last": 536.4
         },
         {
           "contract": "SWZ26",
-          "last": 537.5
+          "last": 537.4
         },
         {
           "contract": "SWH27",
-          "last": 541.8
+          "last": 541.7
         },
         {
           "contract": "SWK27",
-          "last": 539.6
+          "last": 541.2
         },
         {
           "contract": "SWQ27",
@@ -84,15 +84,15 @@
     "Petroleo": {
       "front": {
         "contract": "CLV26",
-        "last": 99.85,
-        "change": 3.8,
+        "last": 99.95,
+        "change": 3.9,
         "open": 96.88,
         "high": 100.88,
         "low": 95.37,
         "previous": 96.05,
-        "volume": 145188,
+        "volume": 152606,
         "open_int": 214897,
-        "fecha_dato": "08:00 CT"
+        "fecha_dato": "08:07 CT"
       },
       "curva": [
         {
@@ -101,23 +101,23 @@
         },
         {
           "contract": "CLV26",
-          "last": 99.85
+          "last": 99.95
         },
         {
           "contract": "CLX26",
-          "last": 96.2
+          "last": 96.26
         },
         {
           "contract": "CLZ26",
-          "last": 92.14
+          "last": 92.2
         },
         {
           "contract": "CLF27",
-          "last": 88.58
+          "last": 88.64
         },
         {
           "contract": "CLG27",
-          "last": 85.45
+          "last": 85.52
         }
       ]
     },
