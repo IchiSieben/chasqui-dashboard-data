@@ -9691,3 +9691,87 @@ fecha,categoria,instrumento,contrato,metrica,valor,origen,sin_sesion,hora_captur
 2026-09-10,sunat_total,,,total_fob_usd,1397014.95,,,
 2026-09-10,sunat_total,,,total_importadores,10,,,
 2026-09-10,sunat_total,,,total_peso_kg,2382804.889,,,
+2026-09-11,barchart_curva,LON5,SWH27,intradia,537.2,captura_vivo,,2026-09-11T14:01:42+00:00
+2026-09-11,barchart_curva,LON5,SWK27,intradia,536.8,captura_vivo,,2026-09-11T14:01:42+00:00
+2026-09-11,barchart_curva,LON5,SWQ27,intradia,530.7,captura_vivo,,2026-09-11T14:01:42+00:00
+2026-09-11,barchart_curva,LON5,SWV26,intradia,529.3,captura_vivo,,2026-09-11T14:01:42+00:00
+2026-09-11,barchart_curva,LON5,SWV27,intradia,523.1,captura_vivo,,2026-09-11T14:01:42+00:00
+2026-09-11,barchart_curva,LON5,SWZ26,intradia,532,captura_vivo,,2026-09-11T14:01:42+00:00
+2026-09-11,barchart_curva,NY11,SBH27,intradia,19.19,captura_vivo,,2026-09-11T14:01:42+00:00
+2026-09-11,barchart_curva,NY11,SBK27,intradia,18.62,captura_vivo,,2026-09-11T14:01:42+00:00
+2026-09-11,barchart_curva,NY11,SBN27,intradia,18.27,captura_vivo,,2026-09-11T14:01:42+00:00
+2026-09-11,barchart_curva,NY11,SBV26,intradia,18.12,captura_vivo,,2026-09-11T14:01:42+00:00
+2026-09-11,barchart_curva,NY11,SBV27,intradia,18.28,captura_vivo,,2026-09-11T14:01:42+00:00
+2026-09-11,barchart_curva,NY11,SBY00,intradia,18.76,captura_vivo,,2026-09-11T14:01:42+00:00
+2026-09-11,barchart_curva,Petroleo,CLF27,intradia,87.37,captura_vivo,,2026-09-11T14:01:42+00:00
+2026-09-11,barchart_curva,Petroleo,CLG27,intradia,84.23,captura_vivo,,2026-09-11T14:01:42+00:00
+2026-09-11,barchart_curva,Petroleo,CLV26,intradia,98.88,captura_vivo,,2026-09-11T14:01:42+00:00
+2026-09-11,barchart_curva,Petroleo,CLX26,intradia,95.18,captura_vivo,,2026-09-11T14:01:42+00:00
+2026-09-11,barchart_curva,Petroleo,CLY00,intradia,102.39,captura_vivo,,2026-09-11T14:01:42+00:00
+2026-09-11,barchart_curva,Petroleo,CLZ26,intradia,90.99,captura_vivo,,2026-09-11T14:01:42+00:00
+2026-09-11,barchart_front,LON5,SWV26,change,-9,captura_vivo,,2026-09-11T14:01:42+00:00
+2026-09-11,barchart_front,LON5,SWV26,high,539.7,captura_vivo,,2026-09-11T14:01:42+00:00
+2026-09-11,barchart_front,LON5,SWV26,intradia,529.3,captura_vivo,,2026-09-11T14:01:42+00:00
+2026-09-11,barchart_front,LON5,SWV26,low,527.4,captura_vivo,,2026-09-11T14:01:42+00:00
+2026-09-11,barchart_front,LON5,SWV26,open,534.7,captura_vivo,,2026-09-11T14:01:42+00:00
+2026-09-11,barchart_front,LON5,SWV26,open_int,19799,captura_vivo,,2026-09-11T14:01:42+00:00
+2026-09-11,barchart_front,LON5,SWV26,previous,538.3,captura_vivo,,2026-09-11T14:01:42+00:00
+2026-09-11,barchart_front,LON5,SWV26,volume,6297,captura_vivo,,2026-09-11T14:01:42+00:00
+2026-09-11,barchart_front,NY11,SBV26,change,-0.61,captura_vivo,,2026-09-11T14:01:42+00:00
+2026-09-11,barchart_front,NY11,SBV26,high,18.84,captura_vivo,,2026-09-11T14:01:42+00:00
+2026-09-11,barchart_front,NY11,SBV26,intradia,18.12,captura_vivo,,2026-09-11T14:01:42+00:00
+2026-09-11,barchart_front,NY11,SBV26,low,18.05,captura_vivo,,2026-09-11T14:01:42+00:00
+2026-09-11,barchart_front,NY11,SBV26,open,18.75,captura_vivo,,2026-09-11T14:01:42+00:00
+2026-09-11,barchart_front,NY11,SBV26,open_int,285048,captura_vivo,,2026-09-11T14:01:42+00:00
+2026-09-11,barchart_front,NY11,SBV26,previous,18.73,captura_vivo,,2026-09-11T14:01:42+00:00
+2026-09-11,barchart_front,NY11,SBV26,volume,90598,captura_vivo,,2026-09-11T14:01:42+00:00
+2026-09-11,barchart_front,Petroleo,CLV26,change,-3.6,captura_vivo,,2026-09-11T14:01:42+00:00
+2026-09-11,barchart_front,Petroleo,CLV26,high,104.46,captura_vivo,,2026-09-11T14:01:42+00:00
+2026-09-11,barchart_front,Petroleo,CLV26,intradia,98.88,captura_vivo,,2026-09-11T14:01:42+00:00
+2026-09-11,barchart_front,Petroleo,CLV26,low,98.48,captura_vivo,,2026-09-11T14:01:42+00:00
+2026-09-11,barchart_front,Petroleo,CLV26,open,104.32,captura_vivo,,2026-09-11T14:01:42+00:00
+2026-09-11,barchart_front,Petroleo,CLV26,open_int,206713,captura_vivo,,2026-09-11T14:01:42+00:00
+2026-09-11,barchart_front,Petroleo,CLV26,previous,102.48,captura_vivo,,2026-09-11T14:01:42+00:00
+2026-09-11,barchart_front,Petroleo,CLV26,volume,212725,captura_vivo,,2026-09-11T14:01:42+00:00
+2026-09-11,divisas,EUR a USD,,compra,1.161795,,,
+2026-09-11,divisas,EUR a USD,,venta,1.161795,,,
+2026-09-11,divisas,USD a COP,,compra,3107.495293,,,
+2026-09-11,divisas,USD a COP,,venta,3107.495293,,,
+2026-09-11,divisas,USD a PEN,,compra,3.367,,,
+2026-09-11,divisas,USD a PEN,,venta,3.373,,,
+2026-09-11,sunat_categoria,BLANCAS,,declaraciones,15,,,
+2026-09-11,sunat_categoria,BLANCAS,,fob,629409.66,,,
+2026-09-11,sunat_categoria,BLANCAS,,peso_kg,1389980,,,
+2026-09-11,sunat_categoria,CARBURANTE,,declaraciones,0,,,
+2026-09-11,sunat_categoria,CARBURANTE,,fob,0,,,
+2026-09-11,sunat_categoria,CARBURANTE,,peso_kg,0,,,
+2026-09-11,sunat_categoria,ETILICO,,declaraciones,7,,,
+2026-09-11,sunat_categoria,ETILICO,,fob,122429.28,,,
+2026-09-11,sunat_categoria,ETILICO,,peso_kg,189373.2,,,
+2026-09-11,sunat_categoria,RUBIAS,,declaraciones,8,,,
+2026-09-11,sunat_categoria,RUBIAS,,fob,483605.38,,,
+2026-09-11,sunat_categoria,RUBIAS,,peso_kg,1022965,,,
+2026-09-11,sunat_importador,20109714039,,declaraciones,2,,,
+2026-09-11,sunat_importador,20109714039,,fob,132545.05,,,
+2026-09-11,sunat_importador,20273155938,,declaraciones,6,,,
+2026-09-11,sunat_importador,20273155938,,fob,133364.0,,,
+2026-09-11,sunat_importador,20600307623,,declaraciones,2,,,
+2026-09-11,sunat_importador,20600307623,,fob,196962.0,,,
+2026-09-11,sunat_importador,20602194303,,declaraciones,2,,,
+2026-09-11,sunat_importador,20602194303,,fob,201714.1,,,
+2026-09-11,sunat_importador,20603624913,,declaraciones,1,,,
+2026-09-11,sunat_importador,20603624913,,fob,119583.71,,,
+2026-09-11,sunat_marca,CARMELITA,,fob,119583.71,,,
+2026-09-11,sunat_marca,MAYAGUEZ,,fob,347466.1,,,
+2026-09-11,sunat_marca,RIOPAILA,,fob,113750.0,,,
+2026-09-11,sunat_marca,S/M,,fob,122429.28,,,
+2026-09-11,sunat_marca,SAN AURELIO,,fob,133364.0,,,
+2026-09-11,sunat_marca,UNAGRO,,fob,176004.0,,,
+2026-09-11,sunat_pais,Bolivia,BO,fob,450073.02,,,
+2026-09-11,sunat_pais,Colombia,CO,fob,660885.66,,,
+2026-09-11,sunat_pais,EE.UU.,US,fob,16484.26,,,
+2026-09-11,sunat_pais,Guatemala,GT,fob,108001.38,,,
+2026-09-11,sunat_total,,,total_declaraciones,30,,,
+2026-09-11,sunat_total,,,total_fob_usd,1235444.32,,,
+2026-09-11,sunat_total,,,total_importadores,13,,,
+2026-09-11,sunat_total,,,total_peso_kg,2602318.2,,,
